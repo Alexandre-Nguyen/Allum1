@@ -1,5 +1,5 @@
 # Allum1
-A little game with matches
+A little game with matches !
 
 First, use command: make
 Then execute the game with: ./allum1
